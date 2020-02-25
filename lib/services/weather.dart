@@ -30,4 +30,12 @@ class WeatherModel {
       return 'Bring a 🧥 just in case';
     }
   }
+
+//  double temperature = weatherData['main']['temp'];
+//  int condition = weatherData['weather'][0]['id'];
+//  String cityName = weatherData['name'];
+//
+//  print(temperature);
+//  print(condition);
+//  print(cityName);
 }
